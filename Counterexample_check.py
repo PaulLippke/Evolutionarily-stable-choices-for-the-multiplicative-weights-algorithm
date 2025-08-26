@@ -24,6 +24,9 @@ SOFTWARE.
 # This code was created for my master thesis. The topic is evolutionarily stable choices for the multiplicative weights algorithm.
 # For the results and the overall setting please consider my master thesis.
 
+# We used the following software versions:
+# Python 3.12.7
+# Matplotlib 3.9.2
 import random
 import copy
 import matplotlib.pyplot as plt
